@@ -1,0 +1,25 @@
+{
+  "name": "cls",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrluthy/ml-devcamp-js-footer.git"
+  },
+  "keywords": [
+    "Footer"
+  ],
+  "author": "Michael <mrluthy@gmail.com> (https://www.npmjs.com/~eutyches)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrluthy/ml-devcamp-js-footer/issues"
+  },
+  "homepage": "https://github.com/mrluthy/ml-devcamp-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
